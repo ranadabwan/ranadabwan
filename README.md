@@ -1,7 +1,6 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/681/280/858/makoto-shinkai-kimi-no-na-wa-starry-night-comet-wallpaper-thumb.jpg)
 <h1 align="center">Hi 👋, I'm Rana!</h1>
 <h3 align="center">A passionate programmer and videogames lover^^</h3>
-<img align="right" ali="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU5ZDAwM2UzOTFkMzZhMTE5ZmJjM2M1NGEzOWM5MTk0YzQ0NzQ3MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV6G9UwkB190zbq/giphy.gif">
+<img align="right" ali="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 🌱 I’m currently learning **Computer Graphics in Python.**
 
