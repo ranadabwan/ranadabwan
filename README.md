@@ -2,7 +2,7 @@
 <h3 align="center">Versioning my journey in code</h3>
 <img align="right" ali="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🌱 I’m currently trying to develop an **app.**
+- 🌱 I'm currently in the process of developing an **app.**
 
 - 📫 How to reach me **nomsasha7@gmail.com**
 
